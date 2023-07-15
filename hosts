@@ -17,7 +17,11 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+# ===============================================================
+# Gym app
+0.0.0.0 api2.branch.io
 
+# ===============================================================
 0.0.0.0 ck.getcookiestxt.com
 0.0.0.0	wpad.ey.net
 0.0.0.0	tiktok.com
@@ -102,7 +106,6 @@ ff02::3 ip6-allhosts
 0.0.0.0	static.nvidiagrid.net
 0.0.0.0	example.org
 0.0.0.0	btzwaca3sqxurhotzzk3inlasmbqeaqbaeaq.a.e.e5.sk
-
 0.0.0.0	dissenter-shop.gab.com
 0.0.0.0	favicons.nextdns.io
 0.0.0.0	go.skimresources

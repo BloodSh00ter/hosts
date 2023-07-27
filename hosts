@@ -21,6 +21,7 @@ ff02::3 ip6-allhosts
 # Gym app
 0.0.0.0 api2.branch.io
 0.0.0.0 com.miui.home
+0.0.0.0 com.miui.securitycenter
 # ===============================================================
 0.0.0.0 ck.getcookiestxt.com
 0.0.0.0	wpad.ey.net
